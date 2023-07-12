@@ -1,0 +1,15 @@
+C:\Users\osabd\source\repos\MethodLecture\MethodLecture\bin\Debug\net6.0\MethodLecture.exe
+C:\Users\osabd\source\repos\MethodLecture\MethodLecture\bin\Debug\net6.0\MethodLecture.deps.json
+C:\Users\osabd\source\repos\MethodLecture\MethodLecture\bin\Debug\net6.0\MethodLecture.runtimeconfig.json
+C:\Users\osabd\source\repos\MethodLecture\MethodLecture\bin\Debug\net6.0\MethodLecture.dll
+C:\Users\osabd\source\repos\MethodLecture\MethodLecture\bin\Debug\net6.0\MethodLecture.pdb
+C:\Users\osabd\source\repos\MethodLecture\MethodLecture\obj\Debug\net6.0\MethodLecture.csproj.AssemblyReference.cache
+C:\Users\osabd\source\repos\MethodLecture\MethodLecture\obj\Debug\net6.0\MethodLecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osabd\source\repos\MethodLecture\MethodLecture\obj\Debug\net6.0\MethodLecture.AssemblyInfoInputs.cache
+C:\Users\osabd\source\repos\MethodLecture\MethodLecture\obj\Debug\net6.0\MethodLecture.AssemblyInfo.cs
+C:\Users\osabd\source\repos\MethodLecture\MethodLecture\obj\Debug\net6.0\MethodLecture.csproj.CoreCompileInputs.cache
+C:\Users\osabd\source\repos\MethodLecture\MethodLecture\obj\Debug\net6.0\MethodLecture.dll
+C:\Users\osabd\source\repos\MethodLecture\MethodLecture\obj\Debug\net6.0\refint\MethodLecture.dll
+C:\Users\osabd\source\repos\MethodLecture\MethodLecture\obj\Debug\net6.0\MethodLecture.pdb
+C:\Users\osabd\source\repos\MethodLecture\MethodLecture\obj\Debug\net6.0\MethodLecture.genruntimeconfig.cache
+C:\Users\osabd\source\repos\MethodLecture\MethodLecture\obj\Debug\net6.0\ref\MethodLecture.dll
